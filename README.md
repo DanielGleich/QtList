@@ -1,4 +1,4 @@
-2. Schuljahr (Ausbildung als staatlich geprüfter informationstechnischer Assistent) (Aufgabe 2/4 PMC) 
+#1. Schuljahr (Ausbildung als staatlich geprüfter informationstechnischer Assistent) (Aufgabe 2/4 PMC) 
 
 In der Programmierung werden oft Arrays oder sogar bessere Objekte benötigt um Variablen zu organisieren.
 Mit diesem Projekt wollten wir eine Liste bestehend aus Knotenpunkten programmieren, um Pointer-Variablen 
